@@ -1,0 +1,14 @@
+<GP.Title> Grechen Portal V1
+<GP.VERSION> 1.0.1.9
+>?This IS NOT SOURCE CODE!
+>?.
+>>SETTINGS
+<$motd>dr NHA Is A King
+<$MinimumGrechenVersion>1.43
+>?.
+>>SERVERS
+<@dr-NHA>PROJECTGRETCHENV1,PROJECTGRETCHENV1,GRETCHEN_SERVER_BASE
+<@SteveModz>Excite,Excite,Dino
+>?.
+>>HASHES
+#1GsqTQU1mR5mAiUKYMghMQ==
